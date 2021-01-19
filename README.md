@@ -10,7 +10,10 @@ Formation of object pairs in a graph has been described being solved by connecte
 
 
 
+
 References:
 
 [1] Fabre, R. (2019). A searchable space with routes for querying scientific information. In Proceedings of the 8th International Workshop on Bibliometric-enhanced Information Retrieval (BIR 2019), 112-124,  http://ceur-ws.org/Vol-2345/paper10.pdf
+
+
 [2] Schubert M. (2012). Paarungsprobleme und ihre ungarischen Lösungen. In: Mathematik für Informatiker. Vieweg+Teubner Verlag. https://doi.org/10.1007/978-3-8348-1995-6_19
