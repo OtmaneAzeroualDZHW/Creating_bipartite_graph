@@ -20,6 +20,4 @@ Formation of object pairs in a graph has been described being solved by connecte
 
 
 
-# Note:
 
-The following developed code relates to an academic paper that has been submitted in Quantitative Science Studies (https://www.mitpressjournals.org/loi/qss).
